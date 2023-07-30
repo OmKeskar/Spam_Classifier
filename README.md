@@ -1,10 +1,8 @@
-# Spam_Classifier
-
-## Spam Mail Classifier
+# Spam Mail Classifier
 
 This project is a spam mail classifier that uses Support Vector Machine (SVM) to classify emails as spam or non-spam. It utilizes the scikit-learn library in Python for machine learning tasks.
 
-# Dataset
+## Dataset
 
 The dataset used for training and testing the classifier is the https://www.kaggle.com/datasets/ganiyuolalekan/spam-assassin-email-classification-dataset
 
